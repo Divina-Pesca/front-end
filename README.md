@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 Integrantes:
-	- Edgar Vinueza
+	- Javier Vinueza
 	- Lesther Carranza
 	- Integrante III
